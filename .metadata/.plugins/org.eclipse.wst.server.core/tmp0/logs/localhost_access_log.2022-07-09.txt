@@ -1,0 +1,11 @@
+127.0.0.1 - - [09/Jul/2022:13:58:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Jul/2022:13:58:05 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 646
+0:0:0:0:0:0:0:1 - - [09/Jul/2022:13:58:07 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1260
+0:0:0:0:0:0:0:1 - - [09/Jul/2022:13:58:09 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2546
+0:0:0:0:0:0:0:1 - - [09/Jul/2022:13:58:26 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 200 2602
+0:0:0:0:0:0:0:1 - - [09/Jul/2022:13:58:39 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Jul/2022:13:58:39 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 3313
+0:0:0:0:0:0:0:1 - - [09/Jul/2022:13:59:01 +0530] "GET /ORS_Project4/ctl/UserListCtl HTTP/1.1" 200 7679
+0:0:0:0:0:0:0:1 - - [09/Jul/2022:13:59:05 +0530] "POST /ORS_Project4/ctl/UserListCtl HTTP/1.1" 200 6106
+0:0:0:0:0:0:0:1 - - [09/Jul/2022:13:59:08 +0530] "POST /ORS_Project4/ctl/UserListCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Jul/2022:13:59:08 +0530] "GET /ORS_Project4/ctl/UserListCtl HTTP/1.1" 200 7679

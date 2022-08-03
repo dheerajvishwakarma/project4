@@ -1,0 +1,16 @@
+127.0.0.1 - - [05/Jun/2022:21:32:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:32:28 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 646
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:32:34 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1260
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:32:36 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2546
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:32:38 +0530] "GET /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2448
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:32:51 +0530] "POST /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 500 2494
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:32:59 +0530] "POST /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2510
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:36:31 +0530] "POST /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2510
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:36:44 +0530] "POST /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2510
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:43:09 +0530] "POST /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2510
+127.0.0.1 - - [05/Jun/2022:21:52:12 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:52:14 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 646
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:52:20 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1260
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:52:22 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2546
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:52:25 +0530] "GET /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2448
+0:0:0:0:0:0:0:1 - - [05/Jun/2022:21:53:03 +0530] "POST /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2510

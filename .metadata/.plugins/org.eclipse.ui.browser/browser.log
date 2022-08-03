@@ -1,0 +1,18 @@
+
+Jul 08, 2022 13:56:43.68 NEW SESSION
+Jul 08, 2022 13:56:43.69 [11832:7476:0708/135643.679:ERROR:device_event_log_impl.cc(214)] [13:56:43.678] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 08, 2022 13:57:44.45 [1224:13672:0708/135744.457:ERROR:device_event_log_impl.cc(214)] [13:57:44.457] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 08, 2022 13:58:41.56 [1224:10764:0708/135841.567:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jul 08, 2022 15:48:02.58 NEW SESSION
+Jul 08, 2022 15:48:02.58 [6632:3876:0708/154802.568:ERROR:device_event_log_impl.cc(214)] [15:48:02.569] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 08, 2022 15:48:57.70 [6632:14148:0708/154857.699:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jul 08, 2022 15:52:44.17 [7656:9636:0708/155244.171:ERROR:device_event_log_impl.cc(214)] [15:52:44.171] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 08, 2022 15:53:40.39 [7656:10500:0708/155340.390:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jul 10, 2022 20:06:49.22 NEW SESSION
+Jul 10, 2022 20:06:49.22 [14056:6056:0710/200649.215:ERROR:device_event_log_impl.cc(214)] [20:06:49.215] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jul 10, 2022 20:07:45.84 [14056:4288:0710/200745.842:ERROR:util.cc(127)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jul 11, 2022 23:02:24.29 NEW SESSION
+Jul 11, 2022 23:02:24.29 [9736:2304:0711/230224.281:ERROR:device_event_log_impl.cc(214)] [23:02:24.281] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)

@@ -1,0 +1,10 @@
+127.0.0.1 - - [06/Jun/2022:13:33:08 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:13:33:09 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 646
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:13:33:12 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1260
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:13:33:14 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2546
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:13:33:19 +0530] "GET /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2448
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:13:33:36 +0530] "POST /ORS_Project4/ForgetPasswordCtl HTTP/1.1" 200 2510
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:14:39:22 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 2546
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:14:42:31 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:14:42:31 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 3313
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:14:42:34 +0530] "GET /ORS_Project4/ctl/MarksheetListCtl HTTP/1.1" 200 13844

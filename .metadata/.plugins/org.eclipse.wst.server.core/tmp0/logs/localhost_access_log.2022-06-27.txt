@@ -1,0 +1,12 @@
+127.0.0.1 - - [27/Jun/2022:13:38:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:38:16 +0530] "GET /ORS_Project4/jsp/ErrorView.jsp HTTP/1.1" 200 921
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:38:16 +0530] "GET /ORS_Project4/img/500%20img.png HTTP/1.1" 200 3228
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:38:16 +0530] "GET /ORS_Project4/img/Error.jpg HTTP/1.1" 200 52653
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:39:36 +0530] "GET /ORS_Project4/jsp/ErrorView404.jsp HTTP/1.1" 200 927
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:39:36 +0530] "GET /ORS_Project4/img/Error.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:39:36 +0530] "GET /ORS_Project4/img/customLogo.png HTTP/1.1" 404 927
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:40:01 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1260
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:40:14 +0530] "GET /ORS_Project4/jsp/ErrorView.jsp HTTP/1.1" 200 927
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:40:24 +0530] "GET /ORS_Project4/jsp/ErrorView.jsp HTTP/1.1" 200 927
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:40:25 +0530] "GET /ORS_Project4/jsp/ErrorView.jsp HTTP/1.1" 200 927
+0:0:0:0:0:0:0:1 - - [27/Jun/2022:13:40:25 +0530] "GET /ORS_Project4/jsp/ErrorView.jsp HTTP/1.1" 200 927
